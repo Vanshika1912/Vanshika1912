@@ -1,7 +1,8 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges)
+
 <h1 align="center">Hi 👋, I'm Vanshika Singh</h1>
 <h3 align="center">A enthusiastic coder from India</h3>
-img align="right" alt="Coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
 - 🔭 I’m currently working on **Vehicle lane assist**
 
 - 🌱 I’m currently learning **CS50x,CS50P,DBMS**
