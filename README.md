@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Vanshika1912/Vanshika1912/blob/main/WhatsApp%20Image%202023-08-27%20at%2011.16.33%20PM.jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Vanshika Singh</h1>
 <h3 align="center">A enthusiastic coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
