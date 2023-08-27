@@ -3,9 +3,9 @@
 <h3 align="center">A enthusiastic coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🔭 I’m currently working on **Vehicle lane assist**
+- 🔭 I’m currently working on **Vehicle lane assist system**
 
-- 🌱 I’m currently learning **CS50x,CS50P,DBMS**
+- 🌱 I’m currently learning **CS50x, CS50P, DBMS**
 
 - 💬 Ask me about **Python, Java, C, DSA**
 
